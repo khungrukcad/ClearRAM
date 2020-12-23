@@ -10,7 +10,7 @@ Simply follow this tep.
 
 Pull this repo first !
 
-	git pull https://github.com/HakaseShounen/ClearRAM
+	git pull https://github.com/khungrukcad/ClearRAM
 
 Go to repo directory
 
@@ -37,4 +37,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Contact
-Feel free to contact me at hakaseshounen@gmail.com
+Feel free to contact me at khungrukcad@icloud.com
